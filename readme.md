@@ -7,7 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/rishanmenezes/ClearCity?style=social)](https://github.com/rishanmenezes/ClearCity/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/rishanmenezes/ClearCity?style=social)](https://github.com/rishanmenezes/ClearCity/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/rishanmenezes/ClearCity)](https://github.com/rishanmenezes/ClearCity/issues)
-[![License](https://img.shields.io/github/license/rishanmenezes/ClearCity)](LICENSE)
+[![License](https://img.shields.io/github/license/rishanmenezes/ClearCity)](LICENSE).
 
 [Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Contributing](#-contributing)
 
